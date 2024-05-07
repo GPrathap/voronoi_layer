@@ -1,0 +1,5 @@
+<library path="voronoi_layer_core">
+  <class name="voronoi_layer/VoronoiLayer" type="voronoi_layer::VoronoiLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is a plugin for a openvdb powered 3D obstacle layer</description>
+  </class>
+</library>
